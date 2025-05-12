@@ -59,32 +59,3 @@
 </summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Pkdriller)
-
-
-<summary>&#127942 <b>GitHub Activity</b>
-</summary>
-
-
-
-
-<br/>
-    <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=𝐈𝐦+𝐣𝐮𝐬𝐭+trying;𝐁𝐮𝐭+𝐈+𝐖𝐢𝐥𝐥+𝐊𝐞𝐞𝐩+𝐋𝐞𝐚𝐫𝐧𝐢𝐦𝐠;𝐈%20|%20𝐋𝐢𝐤𝐞%20|%20𝐂𝐨𝐝𝐢𝐧𝐠%20:);𝐥𝐞𝐭'𝐬%20𝐬𝐭𝐮𝐝𝐲;𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫%2♥️%20:)%20:)&center=true&width=500&height=50"></a>
-</p>
-<hr/
-
-<div align="center">
-<a href='https://ko-fi.com/pkdriller' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-
-</details>
-</br></br>
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pkdriller&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
