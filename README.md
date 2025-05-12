@@ -54,8 +54,3 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Pkdriller&repo=INFOGENIE-AI&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Pkdriller&repo=NEXUS-XMD&theme=dark)
-
-<summary>&#127942 <b>GitHub Awards</b>
-</summary>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Pkdriller)
