@@ -1,7 +1,7 @@
 <p align="center">
 
 - 👤 My name is bmb tech 
-- 💌 I am 20 years old 
+- 💌 I am 23 years old 
 - 👨‍💻 I am not programmer
 
 </p>
@@ -48,3 +48,12 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=bwbxmd&repo=INFOGENIE-AI&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=bwbxmd&repo=B.M.B-TECH&theme=dark)
+
+
+## 🚀 Most Contributed Repo
+
+
+![](https://github-contributor-stats.vercel.app/api?username=novaxmd&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
+
+
