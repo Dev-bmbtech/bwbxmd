@@ -1,11 +1,6 @@
-<p align="center">
+<a><img src='https://files.catbox.moe/g3qyb4.jpg'/>
 
-- 👤 My name is bmb tech 
-- 💌 I am 23 years old 
-- 👨‍💻 I am not programmer
-
-</p>
-
+-----------------------------------
 ------
 <a href="https://wa.link/gk0ie1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
