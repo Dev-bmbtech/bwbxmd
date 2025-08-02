@@ -68,8 +68,6 @@
 
 
 
-<p align="center">
-  <a href="https://files.catbox.moe/5wc25o.jpg">
-    <img 
-  </a>
-</p>
+<a><img src='https://files.catbox.moe/294e79.jpg'/></a
+
+-----------------------------------
